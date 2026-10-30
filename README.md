@@ -159,7 +159,7 @@ Se revisaron 3 datos de cada respuesta: clasificación, si se recicla y tiempo d
 
 ![Detalle de una ejecución: 4.36 créditos](imagenes/14_creditos_por_foto.jpg)
 
-**Video de la prueba en vivo:** [▶️ Ver video en YouTube](ENLACE_YOUTUBE)
+**Video de la prueba en vivo:** [▶️ Ver video en YouTube](https://youtube.com/shorts/7fOt6M4kfCs)
 
 ## 6. Retos y soluciones
 
